@@ -31,10 +31,7 @@
     <!-- 核心数据卡片 -->
     <img src="https://github-readme-stats.vercel.app/api?username=TongtongHuo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="TongtongHuo's Stats" />
     
-    <!-- 常用语言卡片 -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TongtongHuo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
-  </p>
-
+ 
   <!-- 连续打卡记录 (Streak) -->
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=TongtongHuo&theme=tokyonight&hide_border=true&background=0d1117" alt="TongtongHuo's Streak" />
@@ -45,18 +42,4 @@
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=TongtongHuo&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   </p>
-  
-  <p align="center">
-    <!-- 把下面的 # 换成你真实的链接 -->
-    <a href="https://github.com/TongtongHuo" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" />
-    </a>
-  </p>
 
-</div>
