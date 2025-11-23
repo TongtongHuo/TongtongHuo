@@ -9,7 +9,7 @@
   <p>
     <!-- 武汉科技大学，电子信息学院 -->
     👋 大家好，我是武汉科技大学，电子信息学院 <b>Tongtong Huo</b><br>
-    🌱 我目前正在学习/专注于 <b>全栈开发 / 人工智能 / 数据科学</b> (请根据实际修改)<br>
+    🌱 我目前正在学习/专注于 <b>全栈开发 / 人工智能 / 数据科学</b> <br>
     💻 热衷于开源项目和技术分享<br>
     📫 联系我: <a href="mailto:huotongtong@hust.edu.cn">huotongtong@hust.edu.cn</a>
   </p>
