@@ -12,7 +12,7 @@
       Wuhan University of Science and Technology
       <br><br>
       📍 Wuhan, China<br>
-      📧 <a href="mailto:your_email@wust.edu.cn">Email Me</a><br>
+      📧 <a href="mailto:huotongtong@wust.edu.cn">Email Me</a><br>
       🎓 <a href="YOUR_GOOGLE_SCHOLAR_LINK">Google Scholar</a>
     </td>
     <td width="70%" valign="top">
