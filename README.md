@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td width="30%" align="center" valign="top">
-      <img src="https://github.com/TongtongHuo/tongtonghuo.jpg" width="200" style="border-radius: 50%;" alt="Tongtong Huo">
+      <img src="https://github.com/TongtongHuo/Tongtonghuo.jpg" width="200" style="border-radius: 50%;" alt="Tongtong Huo">
       <br><br>
       <b>Lecturer (讲师)</b><br>
       School of Electronic Information<br>
