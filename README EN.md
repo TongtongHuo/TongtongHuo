@@ -81,10 +81,10 @@ To date, I have published over <b>20 SCI papers</b>, including 10+ papers as Fir
    **PDSVF: Prompt-driven SAM-Med2D with parallel ViT and state-space fusion for skin lesion segmentation.**
 
 3. KeShuang Li, Jin Liu, Zhewei Ye, Yuyu Duan, Qifeng Hou, **Tongtong Huo**.  
-   **Tongue-pulse synergistic prescription recommendation via topology reconstruction and multi-source alignment in heterogeneous graphs.**
+   **Tongue-pulse synergistic prescription recommendation via topology reconstruction and multi-source alignment in heterogeneous graphs.** *Network Modeling Analysis in Health Informatics and Bioinformatics*, 2026, 15(1): 204.   
 
 4. Shasha Tao, Jin Liu, Min Xiang, Xin Ma, **Tongtong Huo**, Xiaolin Ning.  
-   **Integrated model for drug-target interaction prediction leveraging multiple protein language embeddings.**
+   **Integrated model for drug-target interaction prediction leveraging multiple protein language embeddings.** *Biomedical Signal Processing and ControlBiomedical Signal Processing and Control*, 2026, 122: 110377., 2026, 122: 110377.
 
 5. Xiaoliang Chen, Mingdi Xue, Xudong Wang, Lei Jiang, Tao Zhang, Ning Ling, Haocheng Xu, Weihang Gao, Lek Hang Cheang, Jiaming Yang, Wa Hou TAI, Jialang Hu, Pengran Liu, **Tongtong Huo\***, Zhewei Ye.  
    **Deep Learning for Pediatric Femoral Neck Fracture Detection in a Multicenter Study.** *iScience*, 2026, 1(3): 114372. (CAS Q2)
