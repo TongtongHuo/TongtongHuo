@@ -75,7 +75,7 @@ To date, I have published over <b>20 SCI papers</b>, including 10+ papers as Fir
 
 #### 2026
 1. **Tongtong Huo**, Xiaoliang Chen, Pengran Liu, Jin Liu, Zineng Yan, Jiaming Yang, Songxiang Liu, Lin Lu, Jiayao Zhang, Jing Shao, Wei Wu, Mingdi Xue, Zhewei Ye.  
-   **Improving pediatric hip fracture detection using deep learning: multicenter validation and clinical reader study.** *International Journal of Surgery*, 2026, 112(7): 13179–13189. [DOI: 10.1097/JS9.0000000000005138]
+   **Improving pediatric hip fracture detection using deep learning: multicenter validation and clinical reader study.** *International Journal of Surgery*, 2026, 112(7): 13179–13189.
 
 2. Shuang Hu, Jin Liu, Zhiwei Wang, Zhewei Ye, Wei Wu, Qifeng Hou, **Tongtong Huo**.  
    **PDSVF: Prompt-driven SAM-Med2D with parallel ViT and state-space fusion for skin lesion segmentation.**
